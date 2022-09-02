@@ -1,0 +1,5 @@
+git init
+git remote add origin https://gitlab.com/vuelafacil.com_grupo2/vuelafacil.com_grupo2
+git add
+git commit -m "Initial commit
+git push -u origin master
